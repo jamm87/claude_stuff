@@ -1,6 +1,6 @@
 ---
 name: traduccion-tecnica-contextual
-description: "Traducción técnica según contexto: decide qué términos traducir, mantener en el original o glosar, con terminología coherente y notas. Úsala al traducir, localizar o revisar traducciones."
+description: "Traducción técnica y especializada (software, ingeniería, medicina, finanzas, legal, marketing) según dominio, público y variante (es-ES, es-419): decide término a término si traducir, mantener el original o glosar, con terminología coherente, glosario y notas. Úsala siempre que haya que traducir, localizar o revisar una traducción de documentación, interfaz, contratos o artículos, o aplicar un glosario, aunque no se diga «técnica». Also for technical translation, localization (l10n), UI strings, glossary/terminology work and translation review."
 ---
 
 # Traducción técnica contextual
